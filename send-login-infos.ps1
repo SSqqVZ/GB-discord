@@ -2,7 +2,7 @@
 Import-Module PSDiscord
 
 # Define the Discord webhook URL (replace with your actual webhook URL)
-$webhookUrl = "https://discordapp.com/api/webhooks/1352134520207442013/Bdwx-xXCc0zegLwYlQ-DvPTCOmM7-NssY4yphu-jtICkV0UK0getZ3bi-3ZUQX856rBq"
+$webhookUrl = "<YOUR_DISCORD_WEBHOOK_URL>"
 
 # Server login information (replace with your server details)
 $serverName = "MyGameServer"
